@@ -1,4 +1,5 @@
 Abstract
+
 Road accidents are a leading cause of fatalities worldwide. 
 Quick detection and reporting are crucial for timely emergency response. 
 This project presents a deep learning–based accident detection system that uses Convolutional Neural Networks (CNN) to analyze video footage and classify frames as 
